@@ -1,0 +1,61 @@
+{
+  "name": "DX-MD",
+  "version": "4.0.0",
+  "description": "Automated whatsapp md bot created using nodejs",
+  "main": "xeon.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node xeon.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "2022",
+    "base",
+    "baileys-md",
+    "bot",
+    "bot-md",
+    "multi-device"
+  ],
+  "author": "Xeon",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.1.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^0.24.0", 
+    "chalk": "^4.1.2", 
+    "child_process": "^1.0.2", 
+    "crypto": "^1.0.1", 
+    "file-type": "^16.5.3", 
+    "fluent-ffmpeg": "^2.1.2", 
+    "fs": "0.0.1-security", 
+    "form-data": "^4.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "human-readable": "^0.2.1", 
+    "jimp": "^0.16.1", 
+    "lowdb": "^2.1.0", 
+    "mongoose": "^6.2.1", 
+    "moment-timezone": "^0.5.34", 
+    "node-fetch": "^2.6.1", 
+    "node-webpmux": "^3.1.0", 
+    "os": "^0.1.2", 
+    "path": "^0.12.7", 
+    "pino": "^7.0.5", 
+    "util": "^0.12.4", 
+    "yargs": "^17.2.1"
+  },
+  "directories": {
+    "lib": "lib",
+    "src": "src"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+        "url": "git+https://github.com/DGXeon/CheemsBot-MD4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DGXeon/CheemsBot-MD4/issues"
+  },
+  "homepage": "https://github.com/DGXeon/CheemsBot-MD4#readme"
+}
